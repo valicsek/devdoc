@@ -12,6 +12,8 @@ then run your angular on a specific IP
 ng serve --host :ip_of_your_server
 ```
 
+_Note: If you run on localhost, no one will able to reach your application from outside_
+
 After you finished your app, you should close your port
 
 ```
@@ -47,4 +49,3 @@ Get the newest branches
 ```
 git branch -r :your_branch_name
 ```
-
