@@ -78,3 +78,15 @@ except ValueError:
     print('Error')
 ```
 
+
+
+# if else
+
+```python
+if condition:
+    do_something()
+elif another_condition:
+    do_another_thing()
+else:
+    thing()
+```
