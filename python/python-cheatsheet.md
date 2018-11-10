@@ -67,3 +67,14 @@ for index in range(len(array)):
     print(array[i])
 ```
 
+
+
+# try catch
+
+```python
+try:
+    input = raw_input("Give an input")
+except ValueError:
+    print('Error')
+```
+
